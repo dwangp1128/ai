@@ -25,6 +25,11 @@
 7. [https://github.com/ollama/ollama/releases/download/v0.34.2/install.sh]
 8. [https://github.com/ollama/ollama/releases/download/v0.34.2/install.ps1]
 
+9. download guide.
+    1- 
+    curl -L "https://registry.ollama.ai/v2/library/llama3.2/manifests/3b" -o "3b"
+   
+
 # opencv
 
  # 4.14
