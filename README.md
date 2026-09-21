@@ -22,5 +22,5 @@
 4. [https://github.com/ollama/ollama/releases/download/v0.34.2/ollama-linux-amd64-rocm.tar.zst]
 5. [https://github.com/ollama/ollama/releases/download/v0.34.2/ollama-linux-amd64.tar.zst]
 6. [https://github.com/ollama/ollama/releases/download/v0.34.2/ollama-linux-amd64.tar.zst]
-7. [https://github.com/ollama/ollama/releases/download/v0.34.3-rc1/install.sh]
-8. [https://github.com/ollama/ollama/releases/download/v0.34.3-rc1/install.ps1]
+7. [https://github.com/ollama/ollama/releases/download/v0.34.2/install.sh]
+8. [https://github.com/ollama/ollama/releases/download/v0.34.2/install.ps1]
