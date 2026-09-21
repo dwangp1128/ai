@@ -14,6 +14,16 @@
 # git
 1. [https://github.com/git-for-windows/git/releases/download/v2.55.0.windows.5/Git-2.55.0.5-64-bit.exe]
 2. []
+3. [https://github.com/go-gitea/gitea/releases/download/v1.27.3/gitea-src-1.27.3.tar.gz]
+4. [https://github.com/go-gitea/gitea/releases/download/v1.27.3/gitea-1.27.3-windows-4.0-arm64.exe]
+5. [https://github.com/go-gitea/gitea/releases/download/v1.27.3/gitea-1.27.3-windows-4.0-amd64.exe]
+6. [https://github.com/go-gitea/gitea/releases/download/v1.27.3/gitea-1.27.3-windows-4.0-386.exe]
+7. [https://github.com/go-gitea/gitea/releases/download/v1.27.3/gitea-1.27.3-linux-riscv64]
+8. [https://github.com/go-gitea/gitea/releases/download/v1.27.3/gitea-1.27.3-linux-arm64]
+9. [https://github.com/go-gitea/gitea/releases/download/v1.27.3/gitea-1.27.3-linux-amd64]
+10. [https://github.com/go-gitea/gitea/releases/download/v1.27.3/gitea-1.27.3-gogit-windows-4.0-amd64.exe]
+11. [https://github.com/go-gitea/gitea/releases/download/v1.27.3/gitea-1.27.3-freebsd14-amd64]
+12. [https://github.com/go-gitea/gitea/releases/download/v1.27.3/gitea-1.27.3-freebsd14-amd64.xz]
 
 # ollama
 1. [https://github.com/ollama/ollama/releases/download/v0.34.2/OllamaSetup.exe]
@@ -26,7 +36,6 @@
 8. [https://github.com/ollama/ollama/releases/download/v0.34.2/install.ps1]
 
 9. download guide.
-    1- 
     curl -L "https://registry.ollama.ai/v2/library/llama3.2/manifests/3b" -o "3b"
    
 
