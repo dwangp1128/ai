@@ -30,3 +30,8 @@
 4. [https://github.com/dwangp1128/ai/releases/download/v1.0.0/offline-pip-packages.7z.004]
 5. [https://github.com/dwangp1128/ai/releases/download/v1.0.0/offline-pip-packages.7z.005]
 6. [https://github.com/dwangp1128/ai/releases/download/v1.0.0/offline-pip-packages.7z.006]
+
+# offline-go-package-server
+1. []
+2. []
+3. 
