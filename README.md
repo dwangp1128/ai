@@ -32,6 +32,30 @@
 6. [https://github.com/dwangp1128/ai/releases/download/v1.0.0/offline-pip-packages.7z.006]
 
 # offline-go-package-server
-1. []
-2. []
-3. 
+1. [https://github.com/dwangp1128/ai/releases/download/v1.0.0/offline-go-packages-server.7z.001]
+2. [https://github.com/dwangp1128/ai/releases/download/v1.0.0/offline-go-packages-server.7z.002]
+
+# ollam_source
+1. [https://github.com/dwangp1128/ai/releases/download/v1.0.0/ollama_opensource.7z.001]
+2. [https://github.com/dwangp1128/ai/releases/download/v1.0.0/ollama_opensource.7z.002]
+
+# golang_demo_source
+1. [https://github.com/dwangp1128/ai/releases/download/v1.0.0/golang_demo.7z.001]
+2. [https://github.com/dwangp1128/ai/releases/download/v1.0.0/golang_demo.7z.002]
+
+# web_ui_demo_source
+1. [https://github.com/dwangp1128/ai/releases/download/v1.0.0/web_demo.7z]
+
+# AI_opensource
+1. [https://github.com/dwangp1128/ai/releases/download/v1.0.0/AI.7z.001]
+2. [https://github.com/dwangp1128/ai/releases/download/v1.0.0/AI.7z.002]
+3. [https://github.com/dwangp1128/ai/releases/download/v1.0.0/AI.7z.003]
+4. [https://github.com/dwangp1128/ai/releases/download/v1.0.0/AI.7z.004]
+5. [https://github.com/dwangp1128/ai/releases/download/v1.0.0/AI.7z.005]
+
+# AI Tokenizer source
+1. [https://github.com/dwangp1128/ai/releases/download/v1.0.0/tokenizer_source.7z]
+
+# jdk
+1. [https://github.com/dwangp1128/ai/releases/download/v1.0.0/jdk.7z]
+
