@@ -89,3 +89,16 @@
 20. [https://github.com/dwangp1128/weight/releases/download/v1.0.0/torch_weights.7z.020]
 21. 
 
+# GPU driver
+1. [https://github.com/dwangp1128/ai/releases/download/v1.0.0/gpu_drivers.7z.001]
+2. [https://github.com/dwangp1128/ai/releases/download/v1.0.0/gpu_drivers.7z.002]
+3. [https://github.com/dwangp1128/ai/releases/download/v1.0.0/gpu_drivers.7z.003]
+4. [https://github.com/dwangp1128/ai/releases/download/v1.0.0/gpu_drivers.7z.004]
+
+# AI Codes
+1. [https://github.com/dwangp1128/ai/releases/download/v1.0.0/AI.7z.001]
+2. [https://github.com/dwangp1128/ai/releases/download/v1.0.0/AI.7z.002]
+3. [https://github.com/dwangp1128/ai/releases/download/v1.0.0/AI.7z.003]
+4. [https://github.com/dwangp1128/ai/releases/download/v1.0.0/AI.7z.004]
+5. [https://github.com/dwangp1128/ai/releases/download/v1.0.0/AI.7z.005]
+   
