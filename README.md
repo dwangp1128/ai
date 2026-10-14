@@ -106,6 +106,8 @@
 1. [https://github.com/dwangp1128/weight/releases/download/v1.0.0/centos9_boot.7z.001]
 2. [https://github.com/dwangp1128/weight/releases/download/v1.0.0/centos9_boot.7z.002]
 3. [https://github.com/dwangp1128/weight/releases/download/v1.0.0/centos9_boot.7z.003]
-4. 
+
+# xampp 8.4
+1. [https://github.com/dwangp1128/ai/releases/download/v1.0.0/xampp.7z]
 
    
